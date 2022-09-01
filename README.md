@@ -14,4 +14,4 @@
 
 <a href="mailto:amandabarbosajf@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/amanda-do-nascimento-barbosa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-315E6F?style=for-the-badge)](https://https://amanda-nascimentobarbosa.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-315E6F?style=for-the-badge)](https://amanda-nascimentobarbosa.github.io/portfolio/)
