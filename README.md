@@ -2,9 +2,9 @@
 
 ## A little bit about me...
 
-👩🏻‍🎓 I have a business administration degree with a project management specialization and a hospital administration residency.
+👩🏻‍🎓 I have a bachelor's degree in business administration, a specialization in project management, and a residency in hospital management.
 
-👩‍💻 I've worked in the pharmaceutical industry, technology sector and at a hospital.
+👩‍💻 I've previously worked in the healthcare area, the technological field, and the pharmaceutical industry.
 
 📚 I am currently studing SQL, Python and Data Visualization.
 
