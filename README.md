@@ -1,14 +1,35 @@
-<h1 align="left">Hi, I'm Amanda Barbosa!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## Hi There! 👋
 
-## A little bit about me...
+Hi, I'm Amanda Barbosa from Brazil, graduated in Business Administration who is passionate about data analysis.
 
-👩🏻‍🎓 I have a bachelor's degree in business administration, a specialization in project management, and a residency in hospital management.
+I am currently transitioning into the data area and looking for my first job opportunity.
 
-👩‍💻 I've previously worked in the healthcare area, the technological field, and the pharmaceutical industry.
+I've used Excel throughout my career, and in recent years, while working at the hospital, I became familiar with Power BI.
+During this period, I started studying data analysis and decided to focus my career in this area.
+At the hospital, I had the opportunity to perform my first data analysis and build dashboards. Demonstrating how data-oriented management results in more effective decision-making.
 
-📚 I am currently studing SQL, Python and Data Visualization.
+I've previously worked in the healthcare area, the technological field, and the pharmaceutical industry.
 
-📈 I am currently transitioning into the data area and looking for my first job opportunity.
+## Education Background
+
+* Bachelor of Business Administration
+
+* Specialized in Project Management
+
+* Residency in Hospital Administration
+
+Other certificate:
+
+* Data Analysis with Python: Zero to Pandas - Jovian
+* Microsoft Power BI Para Data Science, Versão 2.0 - Data Science Academy
+* Business Intelligence (BI) - FIAP
+* Excel Expert e Power Query - TETRA Educação
+* Linguagem Dax no Power BI - TETRA Educação
+* SQL Server e Conceito de Banco de Dados - TETRA Educação
+* Tratamento de Dados e Linguagem M - TETRA Educação
+* Power BI Essencials - TETRA Educação
+* Excel Essencial - TETRA Educação
+
 
 ## Tools
 
@@ -23,4 +44,3 @@
 
 <a href="mailto:amandabarbosajf@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/amanda-do-nascimento-barbosa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-315E6F?style=for-the-badge)](https://amanda-nascimentobarbosa.github.io/portfolio/)
