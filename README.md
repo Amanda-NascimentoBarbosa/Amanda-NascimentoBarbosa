@@ -18,19 +18,6 @@ I've previously worked in the healthcare area, the technological field, and the 
 
 * Residency in Hospital Administration
 
-Other certificate:
-
-* Data Analysis with Python: Zero to Pandas - Jovian
-* Microsoft Power BI Para Data Science, Versão 2.0 - Data Science Academy
-* Business Intelligence (BI) - FIAP
-* Excel Expert e Power Query - TETRA Educação
-* Linguagem Dax no Power BI - TETRA Educação
-* SQL Server e Conceito de Banco de Dados - TETRA Educação
-* Tratamento de Dados e Linguagem M - TETRA Educação
-* Power BI Essencials - TETRA Educação
-* Excel Essencial - TETRA Educação
-
-
 ## Tools
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
