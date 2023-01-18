@@ -30,4 +30,5 @@ I've previously worked in the healthcare area, the technological field, and the 
 ## Let's Connect
 
 <a href="mailto:amandabarbosajf@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="www.linkedin.com/in/amanda-nascimentobarbosa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="www.linkedin.com/in/amanda-nascimentobarbosa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>&nbsp;
+
