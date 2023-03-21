@@ -31,3 +31,41 @@ I've previously worked in the healthcare area, the technological field, and the 
 
 <a href="https://www.linkedin.com/in/amanda-do-nascimento-barbosa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>&nbsp;
 
+# Portfolio
+
+## SQL
+
+| Project Name | Description |
+|-----|----------|
+|[Danny's Diner](https://github.com/amanda-nascimentobarbosa/8_week_sql_challenge/tree/a2296a7e3ccdf82c96a1c4575151ae284dd50ffa/Danny's_Diner) |Case Study #1 from 8 Week SQL Challenge - Analyse the visiting patterns, amount spent and the favourite menu of the diners to deliver a better and more personalised experience for the loyal customers |
+|[Pizza Runner](https://github.com/amanda-nascimentobarbosa/8_week_sql_challenge/tree/a2296a7e3ccdf82c96a1c4575151ae284dd50ffa/Pizza_Runner) |Case Study #2 from 8 Week SQL Challenge - Analyse the different metrics of an Uberized pizza stores to understand the runner and customer experience, ingredient optimization, pricing and ratings etc.  |
+|[Foodie-Fi](https://github.com/amanda-nascimentobarbosa/8_week_sql_challenge/tree/main/Foodie-Fi) |Case Study #3 from 8 Week SQL Challenge - This case study focuses on using subscription style digital data to answer important business questions.  |
+|[Data Cleaning using SQL](https://github.com/amanda-nascimentobarbosa/cleaning_data_sql) |This is home value data for the hot Nashville market available on Kaggle.|
+|[SQL Practive Problems](https://github.com/amanda-nascimentobarbosa/sql_practice_problems/blob/4504e959c255a17733e8692c4e1d734a632c61fc/README.md) | This repository contains the solution of beginning, intermediate, and advanced challenges from the book SQL Practice Problems, by Sylvia Moestl Vasilik. |
+
+***
+
+## Python
+
+Skills: Data cleaning, wrangling, visualisation, analysis
+
+Libraries: pandas, numpy, matplotlib, seaborn
+
+| Project Name | Description |
+|---|---|
+|[Exploratory Data Analysis - Sales Product](https://github.com/amanda-nascimentobarbosa/eda_sales_analysis) |   Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | _pandas, matplotlib_ |   
+
+***
+
+## Visualization
+
+[**Nobel Prize (PowerBI)**](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/tree/main/Nobel%20Prize)| [**YouTube Channel Data Analysis (Power BI)**](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/tree/main/YouTube%20Analysis)|
+|:-------------------------:|:-------------------------:|
+![1](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/blob/main/Nobel%20Prize/dashboard_screenshot.jpg) | ![2](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/blob/main/YouTube%20Analysis/dashboard_screenshot_1.PNG)| ![3](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis/blob/2c63d583441b2cd38a50593c1ffb9f3cc31bd34f/dashboard.png)|
+[**Ecommerce Data Analysis (Looker Studio)** ](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis)| [**Medical Exams Management (Excel)** ](https://github.com/amanda-nascimentobarbosa/medical_exams_management) |
+![3](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis/blob/2c63d583441b2cd38a50593c1ffb9f3cc31bd34f/dashboard.png)|![image](https://user-images.githubusercontent.com/100388639/226490768-81ba4c1e-1a28-4abd-9d26-72b015ccd468.png)
+
+***
+
+
+
