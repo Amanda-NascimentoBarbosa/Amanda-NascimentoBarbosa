@@ -62,8 +62,8 @@ Libraries: pandas, numpy, matplotlib, seaborn
 [**Nobel Prize (PowerBI)**](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/tree/main/Nobel%20Prize)| [**YouTube Channel Data Analysis (Power BI)**](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/tree/main/YouTube%20Analysis)|
 |:-------------------------:|:-------------------------:|
 ![1](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/blob/main/Nobel%20Prize/dashboard_screenshot.jpg) | ![2](https://github.com/amanda-nascimentobarbosa/power_bi_data_challenges/blob/main/YouTube%20Analysis/dashboard_screenshot_1.PNG)| ![3](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis/blob/2c63d583441b2cd38a50593c1ffb9f3cc31bd34f/dashboard.png)|
-[**Ecommerce Data Analysis (Looker Studio)** ](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis)| [**Medical Exams Management (Excel)** ](https://github.com/amanda-nascimentobarbosa/medical_exams_management) |
-![3](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis/blob/2c63d583441b2cd38a50593c1ffb9f3cc31bd34f/dashboard.png)|![image](https://user-images.githubusercontent.com/100388639/228375790-0bcc5383-11c0-4e2a-ab05-a7a3989afc93.png)
+[**Ecommerce Data Analysis (Looker Studio)** ](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis)| [**Medical Exams Management (Looker Studio)** ](https://github.com/amanda-nascimentobarbosa/medical_exams_management) |
+![3](https://github.com/amanda-nascimentobarbosa/ecommerce_data_analysis/blob/2c63d583441b2cd38a50593c1ffb9f3cc31bd34f/dashboard.png)|![image](https://github.com/amanda-nascimentobarbosa/amanda-nascimentobarbosa/assets/100388639/d3840f1d-1aa9-4693-bf11-0e8103cfa0e0)
 
 
 ***
